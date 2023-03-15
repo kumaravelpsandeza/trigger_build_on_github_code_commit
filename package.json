@@ -1,0 +1,20 @@
+{
+  "name": "simpleserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumaravelpsandeza/trigger_build_on_github_code_commit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumaravelpsandeza/trigger_build_on_github_code_commit/issues"
+  },
+  "homepage": "https://github.com/kumaravelpsandeza/trigger_build_on_github_code_commit#readme"
+}
